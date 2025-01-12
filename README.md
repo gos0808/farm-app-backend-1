@@ -2,7 +2,7 @@
 
 ## Description
 
-Blue Sky Farm offers a platform to explore seasonal events, shop fresh products, and discover recipe ideas. Easily add items to your cart, enjoy secure payments, and access detailed nutrition info. Use our map for directions and contact us for support or inquiries
+At the Blue Sky Farm, you can browse seasonal events, shop the freshest products, and log in or sign up securely to enhance your experience. Effortlessly manage your cart, make secure payments, and enjoy fast checkout. Use our map for navigation and contact us with any questions
 
 ## Key Features
 
